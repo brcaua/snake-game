@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  background-color: wheat;
+}
+body{
+  margin-top: 35px;
+  text-align: center;
+}
+@media only screen and (max-width: 400px) {
+  canvas{
+    width: 300px;
+  }
+}
