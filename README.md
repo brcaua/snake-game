@@ -1,5 +1,5 @@
 <p align="center"><img src="https://github.com/brcaua/snake-game/blob/master/assets/logo.png"></p>
-<h1 align="center">Welcome to snake-game 👋</h1>
+<h1 align="center">Welcome to Snake-Game :snake: </h1>
 <p align="center">Snake game with pure JavaScript</p>
 
 ### ✨ Demo
